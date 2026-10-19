@@ -1,2 +1,2 @@
 ### tp53
-()[assets/TP53_mutation.png]
+![tp53 mutation img](assets/TP53_mutation.png)
